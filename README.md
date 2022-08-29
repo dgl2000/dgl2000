@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:penguin: Hi, I'm Gaole, you could call me Gloria.
+:penguin: Hi, I'm [Gaole](mailto:gd25@rice.edu), you could call me Gloria.
+
+<img src="https://drive.google.com/uc?export=view&id=1mIZegF-xaML-fw8Z0roUSOuo5bD7JmL0" alt="index page" style="width:400px;" />
+
+*Me in front of the Big Rice University Logo*
 
 🌱 I'm currently a graduate student pursuing the master of computer science degree at Rice University. I graduated from the University of Nottingham Ningbo China with a bachelor's degree in Computer Science with Artificial Intelligence.
 
 :briefcase: Seeking for software engineering intern in 2023 summer, I would aprreciate if you could offer any support!
+
+💬 Ask me about anything, such as applications, programming, etc. I'm happy to answer!
 
 📫 How to reach me: Feel free to contact me via gaole.dai@rice.edu :D
 
