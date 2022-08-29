@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me: Feel free to contact me via gaole.dai@rice.edu :D
 
-:sob: P.S. I used to upload codes via my undergraduate student GitLab account, so there is almost nothing here.
+:sob: P.S. I used to upload codes via my undergraduate student GitLab account which expired after graduation, so there is almost nothing in this account :(
