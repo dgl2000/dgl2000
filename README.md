@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! This is Gaole 👋
 
 <!--
 **dgl2000/dgl2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:penguin: Hi, I'm Gaole, you could call me Gloria.
+
+🌱 I'm currently a graduate student pursuing the master of computer science degree at Rice University. I graduated from the University of Nottingham Ningbo China with a bachelor's degree in Computer Science with Artificial Intelligence.
+
+:briefcase: Seeking for software engineering intern in 2023 summer, I would aprreciate if you could offer any support!
+
+📫 How to reach me: Feel free to contact me via gaole.dai@rice.edu :D
