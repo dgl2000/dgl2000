@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 :briefcase: Seeking for software engineering intern in 2023 summer, I would aprreciate if you could offer any support!
 
 📫 How to reach me: Feel free to contact me via gaole.dai@rice.edu :D
+
+:sob: P.S. I used to upload codes via my undergraduate student GitLab account, so there is almost nothing here.
