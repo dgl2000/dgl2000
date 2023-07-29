@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🌱 I'm currently a graduate student pursuing the master of computer science degree at Rice University. I graduated from the University of Nottingham Ningbo China with a bachelor's degree in Computer Science with Artificial Intelligence.
 
-:briefcase: Seeking for software engineering intern in 2023 summer, I would aprreciate if you could offer any support!
+:briefcase: Seeking for software engineer full-time position after graduation this December, I would aprreciate if you could offer any support!
 
 💬 Ask me about anything, such as applications, programming, etc. I'm happy to answer!
 
