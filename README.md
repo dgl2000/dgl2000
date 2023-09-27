@@ -5,13 +5,13 @@
 
 <p align="left">
   <samp>
-  :penguin: &nbsp;Hi, I'm <a href = "mailto:gd25@rice.edu">Gaole</a>! you could call me Gloria. <br>
-  📚 &nbsp;I'm a graduate student pursuing MS in CS at Rice University. <br>
-  👩‍🎓 &nbsp;Graduated from the University of Nottingham Ningbo China with a BS in CSAI. <br>
+  :penguin: &nbsp;Hi, I'm Gaole! you could call me Gloria. <br>
+  📚 &nbsp;I'm a graduate student pursuing MS in CS at <a href = "https://www.rice.edu/">Rice University</a>. <br>
+  👩‍🎓 &nbsp;Graduated from the <a href = "https://www.nottingham.edu.cn/">University of Nottingham Ningbo China</a> with a BS in CSAI. <br>
   :briefcase: &nbsp;Seeking for SWE/SDE/APM NG after graduation this December, I would appreciate it if you could offer any support! <br>
   🥅 &nbsp;Currently work on LeetCode and portfolio website.  <br>
   💬 &nbsp;Ask me about anything, such as applications, programming, etc. I'm happy to answer! <br>
-  📫 &nbsp;Feel free to reach out to me via gaole.dai@rice.edu :D <br>
+  📫 &nbsp;Feel free to reach out to me via <a href = "mailto:gaole.dai@rice.edu">gaole.dai@rice.edu</a> :D <br>
   😞 &nbsp;<i>P.S. I used to upload codes via my undergraduate student GitLab account which expired after graduation, so there is almost nothing in this account :( </i>
   </samp>
 </p>
