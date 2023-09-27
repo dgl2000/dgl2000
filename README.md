@@ -9,6 +9,7 @@
   📚 &nbsp;I'm a graduate student pursuing MS in CS at Rice University. <br>
   👩‍🎓 &nbsp;Graduated from the University of Nottingham Ningbo China with a BS in CSAI. <br>
   :briefcase: &nbsp;Seeking for SWE/SDE/APM NG after graduation this December, I would appreciate it if you could offer any support! <br>
+  🥅 &nbsp;Currently work on LeetCode and portfolio website.  <br>
   💬 &nbsp;Ask me about anything, such as applications, programming, etc. I'm happy to answer! <br>
   📫 &nbsp;Feel free to reach out to me via gaole.dai@rice.edu :D <br>
   😞 &nbsp;<i>P.S. I used to upload codes via my undergraduate student GitLab account which expired after graduation, so there is almost nothing in this account :( </i>
@@ -69,7 +70,6 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  
 </p>
 
 
