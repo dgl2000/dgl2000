@@ -71,12 +71,3 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
-
-
-### 🗂️ &nbsp;Selected Project Demos
-#### Computer Graphics: Christmas Village
-[![Christmas Village Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1662833634/video_to_markdown/images/google-drive--1LufnXIUrrvmvkwGMaRprbwPRJMSJcFTa-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1LufnXIUrrvmvkwGMaRprbwPRJMSJcFTa/view?usp=sharing "Christmas Village Demo")
-
-#### Sokoban Game
-[![Sokoban Game Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1662832575/video_to_markdown/images/google-drive--1CLPpe9FvaKZirZprKLvcTC-0Fe1ywK_9-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1CLPpe9FvaKZirZprKLvcTC-0Fe1ywK_9/view?usp=sharing "Sokoban Game Demo")
-
