@@ -5,7 +5,7 @@
 
 <p align="left">
   <samp>
-  :penguin: &nbsp;Hi, I'm Gaole! you could call me Gloria. <br>
+  :penguin: &nbsp;Hi, I'm Gaole (pronounced Gow-luh)! you could call me Gloria. <br>
   📚 &nbsp;I'm a graduate student pursuing MS in CS at <a href = "https://www.rice.edu/">Rice University</a>. <br>
   👩‍🎓 &nbsp;Graduated from the <a href = "https://www.nottingham.edu.cn/">University of Nottingham Ningbo China</a> with a BS in CSAI. <br>
   :briefcase: &nbsp;Seeking for SWE/SDE/APM NG after graduation this December, I would appreciate it if you could offer any support! <br>
