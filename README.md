@@ -1,6 +1,4 @@
 ### 👋 &nbsp;Hello World! This is Gaole
-
-<img src="https://drive.google.com/uc?export=view&id=1i5DsS3KQ0_K8wCWI0hL72cYOgWpDi_Qr" alt="Gaole @ Lassen" style="width:400px;" /> <br>
 <hr></hr>
 
 <p align="left">
